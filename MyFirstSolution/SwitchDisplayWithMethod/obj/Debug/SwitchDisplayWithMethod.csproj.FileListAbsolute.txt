@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\MyFirstSolution\SwitchDisplayWithMethod\bin\Debug\SwitchDisplayWithMethod.exe.config
+C:\Users\heng\source\repos\MyFirstSolution\SwitchDisplayWithMethod\bin\Debug\SwitchDisplayWithMethod.exe
+C:\Users\heng\source\repos\MyFirstSolution\SwitchDisplayWithMethod\bin\Debug\SwitchDisplayWithMethod.pdb
+C:\Users\heng\source\repos\MyFirstSolution\SwitchDisplayWithMethod\obj\Debug\SwitchDisplayWithMethod.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\MyFirstSolution\SwitchDisplayWithMethod\obj\Debug\SwitchDisplayWithMethod.exe
+C:\Users\heng\source\repos\MyFirstSolution\SwitchDisplayWithMethod\obj\Debug\SwitchDisplayWithMethod.pdb

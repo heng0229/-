@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\bin\Debug\ExDLLSample.exe.config
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\bin\Debug\ExDLLSample.exe
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\bin\Debug\ExDLLSample.pdb
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\bin\Debug\MyLibrary.dll
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\bin\Debug\MyLibrary.pdb
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.csproj.CopyComplete
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.exe
+C:\Users\heng\source\repos\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.pdb

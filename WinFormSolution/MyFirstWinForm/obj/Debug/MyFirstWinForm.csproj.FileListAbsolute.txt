@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe.config
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.Properties.Resources.resources
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.GenerateResource.cache
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.exe
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.pdb
+C:\Users\heng\source\repos\WinFormSolution\MyFirstWinForm\obj\Debug\MyFirstWinForm.Form1.resources

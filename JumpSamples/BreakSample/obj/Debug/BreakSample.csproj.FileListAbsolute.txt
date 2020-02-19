@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\JumpSamples\BreakSample\bin\Debug\BreakSample.exe.config
+C:\Users\heng\source\repos\JumpSamples\BreakSample\bin\Debug\BreakSample.exe
+C:\Users\heng\source\repos\JumpSamples\BreakSample\bin\Debug\BreakSample.pdb
+C:\Users\heng\source\repos\JumpSamples\BreakSample\obj\Debug\BreakSample.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\JumpSamples\BreakSample\obj\Debug\BreakSample.exe
+C:\Users\heng\source\repos\JumpSamples\BreakSample\obj\Debug\BreakSample.pdb

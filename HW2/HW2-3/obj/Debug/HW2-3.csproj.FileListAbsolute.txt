@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\HW2\HW2-3\obj\Debug\HW2-3.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\HW2\HW2-3\obj\Debug\HW2_3.Form1.resources
+C:\Users\heng\source\repos\HW2\HW2-3\obj\Debug\HW2_3.Properties.Resources.resources
+C:\Users\heng\source\repos\HW2\HW2-3\obj\Debug\HW2-3.csproj.GenerateResource.cache
+C:\Users\heng\source\repos\HW2\HW2-3\bin\Debug\HW2-3.exe.config
+C:\Users\heng\source\repos\HW2\HW2-3\bin\Debug\HW2-3.exe
+C:\Users\heng\source\repos\HW2\HW2-3\bin\Debug\HW2-3.pdb
+C:\Users\heng\source\repos\HW2\HW2-3\obj\Debug\HW2-3.exe
+C:\Users\heng\source\repos\HW2\HW2-3\obj\Debug\HW2-3.pdb

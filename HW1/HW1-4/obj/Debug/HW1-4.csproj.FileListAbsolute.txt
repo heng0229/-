@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\HW1\HW1-4\bin\Debug\HW1-4.exe.config
+C:\Users\heng\source\repos\HW1\HW1-4\bin\Debug\HW1-4.exe
+C:\Users\heng\source\repos\HW1\HW1-4\bin\Debug\HW1-4.pdb
+C:\Users\heng\source\repos\HW1\HW1-4\obj\Debug\HW1-4.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\HW1\HW1-4\obj\Debug\HW1-4.exe
+C:\Users\heng\source\repos\HW1\HW1-4\obj\Debug\HW1-4.pdb

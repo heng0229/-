@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\LoopSamples\ForeachSample\bin\Debug\ForeachSample.exe.config
+C:\Users\heng\source\repos\LoopSamples\ForeachSample\bin\Debug\ForeachSample.exe
+C:\Users\heng\source\repos\LoopSamples\ForeachSample\bin\Debug\ForeachSample.pdb
+C:\Users\heng\source\repos\LoopSamples\ForeachSample\obj\Debug\ForeachSample.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\LoopSamples\ForeachSample\obj\Debug\ForeachSample.exe
+C:\Users\heng\source\repos\LoopSamples\ForeachSample\obj\Debug\ForeachSample.pdb

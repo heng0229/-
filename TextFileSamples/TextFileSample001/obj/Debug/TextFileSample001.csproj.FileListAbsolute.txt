@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\bin\Debug\TextFileSample001.exe.config
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\bin\Debug\TextFileSample001.exe
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\bin\Debug\TextFileSample001.pdb
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.Form1.resources
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.Properties.Resources.resources
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.csproj.GenerateResource.cache
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.exe
+C:\Users\heng\source\repos\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.pdb

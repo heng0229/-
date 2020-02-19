@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\bin\Debug\SimpleCalculator02.exe.config
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\bin\Debug\SimpleCalculator02.exe
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\bin\Debug\SimpleCalculator02.pdb
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\obj\Debug\SimpleCalculator02.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\obj\Debug\SimpleCalculator02.Form1.resources
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\obj\Debug\SimpleCalculator02.Properties.Resources.resources
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\obj\Debug\SimpleCalculator02.csproj.GenerateResource.cache
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\obj\Debug\SimpleCalculator02.exe
+C:\Users\heng\source\repos\WinFormSolution\SimpleCalculator02\obj\Debug\SimpleCalculator02.pdb

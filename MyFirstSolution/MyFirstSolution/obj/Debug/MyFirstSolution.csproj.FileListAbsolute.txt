@@ -1,0 +1,6 @@
+C:\build school\MyFirstSolution\MyFirstSolution\bin\Debug\MyFirstSolution.exe.config
+C:\build school\MyFirstSolution\MyFirstSolution\bin\Debug\MyFirstSolution.exe
+C:\build school\MyFirstSolution\MyFirstSolution\bin\Debug\MyFirstSolution.pdb
+C:\build school\MyFirstSolution\MyFirstSolution\obj\Debug\MyFirstSolution.csprojAssemblyReference.cache
+C:\build school\MyFirstSolution\MyFirstSolution\obj\Debug\MyFirstSolution.exe
+C:\build school\MyFirstSolution\MyFirstSolution\obj\Debug\MyFirstSolution.pdb

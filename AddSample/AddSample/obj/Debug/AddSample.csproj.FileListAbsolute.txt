@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\AddSample\AddSample\bin\Debug\AddSample.exe.config
+C:\Users\heng\source\repos\AddSample\AddSample\bin\Debug\AddSample.exe
+C:\Users\heng\source\repos\AddSample\AddSample\bin\Debug\AddSample.pdb
+C:\Users\heng\source\repos\AddSample\AddSample\obj\Debug\AddSample.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\AddSample\AddSample\obj\Debug\AddSample.exe
+C:\Users\heng\source\repos\AddSample\AddSample\obj\Debug\AddSample.pdb

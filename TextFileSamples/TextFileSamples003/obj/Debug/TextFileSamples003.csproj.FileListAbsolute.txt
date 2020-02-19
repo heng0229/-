@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\obj\Debug\TextFileSamples003.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\obj\Debug\TextFileSamples003.Form1.resources
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\obj\Debug\TextFileSamples003.Properties.Resources.resources
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\obj\Debug\TextFileSamples003.csproj.GenerateResource.cache
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\bin\Debug\TextFileSamples003.exe.config
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\bin\Debug\TextFileSamples003.exe
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\bin\Debug\TextFileSamples003.pdb
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\obj\Debug\TextFileSamples003.exe
+C:\Users\heng\source\repos\TextFileSamples\TextFileSamples003\obj\Debug\TextFileSamples003.pdb

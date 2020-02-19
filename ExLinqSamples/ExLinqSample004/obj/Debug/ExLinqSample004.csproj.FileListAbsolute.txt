@@ -1,0 +1,5 @@
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample004\bin\Debug\ExLinqSample004.exe.config
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample004\bin\Debug\ExLinqSample004.exe
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample004\bin\Debug\ExLinqSample004.pdb
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample004\obj\Debug\ExLinqSample004.exe
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample004\obj\Debug\ExLinqSample004.pdb

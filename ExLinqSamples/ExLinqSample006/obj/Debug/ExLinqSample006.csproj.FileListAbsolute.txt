@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample006\bin\Debug\ExLinqSample006.exe.config
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample006\bin\Debug\ExLinqSample006.exe
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample006\bin\Debug\ExLinqSample006.pdb
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample006\obj\Debug\ExLinqSample006.exe
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample006\obj\Debug\ExLinqSample006.pdb
+C:\Users\heng\source\repos\ExLinqSamples\ExLinqSample006\obj\Debug\ExLinqSample006.csprojAssemblyReference.cache

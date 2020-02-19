@@ -1,0 +1,5 @@
+C:\Users\heng\source\repos\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe.config
+C:\Users\heng\source\repos\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.exe
+C:\Users\heng\source\repos\LoopSamples\WhileLoopSample\bin\Debug\WhileLoopSample.pdb
+C:\Users\heng\source\repos\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.exe
+C:\Users\heng\source\repos\LoopSamples\WhileLoopSample\obj\Debug\WhileLoopSample.pdb

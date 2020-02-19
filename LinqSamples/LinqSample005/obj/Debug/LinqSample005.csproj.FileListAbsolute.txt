@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\LinqSamples\LinqSample005\bin\Debug\LinqSample005.exe.config
+C:\Users\heng\source\repos\LinqSamples\LinqSample005\bin\Debug\LinqSample005.exe
+C:\Users\heng\source\repos\LinqSamples\LinqSample005\bin\Debug\LinqSample005.pdb
+C:\Users\heng\source\repos\LinqSamples\LinqSample005\obj\Debug\LinqSample005.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\LinqSamples\LinqSample005\obj\Debug\LinqSample005.exe
+C:\Users\heng\source\repos\LinqSamples\LinqSample005\obj\Debug\LinqSample005.pdb

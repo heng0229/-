@@ -1,0 +1,5 @@
+C:\Users\heng\source\repos\LinqSamples\LinqSample008\bin\Debug\LinqSample008.exe.config
+C:\Users\heng\source\repos\LinqSamples\LinqSample008\bin\Debug\LinqSample008.exe
+C:\Users\heng\source\repos\LinqSamples\LinqSample008\bin\Debug\LinqSample008.pdb
+C:\Users\heng\source\repos\LinqSamples\LinqSample008\obj\Debug\LinqSample008.exe
+C:\Users\heng\source\repos\LinqSamples\LinqSample008\obj\Debug\LinqSample008.pdb

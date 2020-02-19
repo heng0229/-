@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\LoopSamples\ForLoopSample\bin\Debug\ForLoopSample.exe.config
+C:\Users\heng\source\repos\LoopSamples\ForLoopSample\bin\Debug\ForLoopSample.exe
+C:\Users\heng\source\repos\LoopSamples\ForLoopSample\bin\Debug\ForLoopSample.pdb
+C:\Users\heng\source\repos\LoopSamples\ForLoopSample\obj\Debug\ForLoopSample.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\LoopSamples\ForLoopSample\obj\Debug\ForLoopSample.exe
+C:\Users\heng\source\repos\LoopSamples\ForLoopSample\obj\Debug\ForLoopSample.pdb

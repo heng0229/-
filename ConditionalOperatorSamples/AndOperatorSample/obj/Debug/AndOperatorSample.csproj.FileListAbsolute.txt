@@ -1,0 +1,6 @@
+C:\Users\heng\source\repos\ConditionalOperatorSamples\AndOperatorSample\bin\Debug\AndOperatorSample.exe.config
+C:\Users\heng\source\repos\ConditionalOperatorSamples\AndOperatorSample\bin\Debug\AndOperatorSample.exe
+C:\Users\heng\source\repos\ConditionalOperatorSamples\AndOperatorSample\bin\Debug\AndOperatorSample.pdb
+C:\Users\heng\source\repos\ConditionalOperatorSamples\AndOperatorSample\obj\Debug\AndOperatorSample.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\ConditionalOperatorSamples\AndOperatorSample\obj\Debug\AndOperatorSample.exe
+C:\Users\heng\source\repos\ConditionalOperatorSamples\AndOperatorSample\obj\Debug\AndOperatorSample.pdb

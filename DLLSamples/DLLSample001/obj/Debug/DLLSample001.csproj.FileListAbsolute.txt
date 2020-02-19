@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\bin\Debug\DLLSample001.exe.config
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\bin\Debug\DLLSample001.exe
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\bin\Debug\DLLSample001.pdb
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\bin\Debug\MyLibrary.dll
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\bin\Debug\MyLibrary.pdb
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\obj\Debug\DLLSample001.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\obj\Debug\DLLSample001.csproj.CopyComplete
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\obj\Debug\DLLSample001.exe
+C:\Users\heng\source\repos\DLLSamples\DLLSample001\obj\Debug\DLLSample001.pdb

@@ -1,0 +1,9 @@
+C:\Users\heng\source\repos\ListSamples\ListSample003\bin\Debug\ListSample003.exe.config
+C:\Users\heng\source\repos\ListSamples\ListSample003\bin\Debug\ListSample003.exe
+C:\Users\heng\source\repos\ListSamples\ListSample003\bin\Debug\ListSample003.pdb
+C:\Users\heng\source\repos\ListSamples\ListSample003\obj\Debug\ListSample003.csprojAssemblyReference.cache
+C:\Users\heng\source\repos\ListSamples\ListSample003\obj\Debug\ListSample003.Form1.resources
+C:\Users\heng\source\repos\ListSamples\ListSample003\obj\Debug\ListSample003.Properties.Resources.resources
+C:\Users\heng\source\repos\ListSamples\ListSample003\obj\Debug\ListSample003.csproj.GenerateResource.cache
+C:\Users\heng\source\repos\ListSamples\ListSample003\obj\Debug\ListSample003.exe
+C:\Users\heng\source\repos\ListSamples\ListSample003\obj\Debug\ListSample003.pdb

@@ -1,0 +1,6 @@
+C:\build school\MyFirstSolution\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\build school\MyFirstSolution\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\build school\MyFirstSolution\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\build school\MyFirstSolution\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\build school\MyFirstSolution\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\build school\MyFirstSolution\MyFirstApp\obj\Debug\MyFirstApp.pdb
